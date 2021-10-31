@@ -14,5 +14,4 @@
   - I thought it would be fun to try to remake some of the classic windows games. So far  Ihave made rough versions of minesweeper and solitaire.
    
    
-- 📫 How to reach me:
-- 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-w-1118a7120/)
