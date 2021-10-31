@@ -7,7 +7,7 @@
 - List of my projects:
   - ArfiDiary: [Link to website](https://www.arfidiary.co.uk).
   This is a food diary for people suffering with the eating disorder [ARFID](https://www.beateatingdisorders.org.uk/get-information-and-support/about-eating-disorders/types/arfid/)
-  Currently this is released on the Google Play Store as a Beta project, available for anyone to download.
+  Currently this is released on the [Google Play Store](https://play.google.com/store/apps/details?id=com.arfid&gl=GB) as a Beta project, available for anyone to download.
   A REST server is with a PostgresDB on Heroku. (If you use the mobile app please give the server a chance to fire up.)
 
 - Windows Games: [Link to website](https://windows-games.herokuapp.com) [Link to repo](https://github.com/oldben87/windows-games)
