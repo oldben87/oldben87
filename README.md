@@ -11,5 +11,4 @@
 - Windows Games: [Link to website](https://windows-games.herokuapp.com) [Link to repo](https://github.com/oldben87/windows-games)
   - I thought it would be fun to try to remake some of the classic windows games. So far I have made rough versions of Minesweeper and Solitaire.
    
-   
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-w-1118a7120/)
+  
